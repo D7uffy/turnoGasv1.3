@@ -22,6 +22,7 @@ const FormCupet = () => {
         {" "}
         <h1 id="texto">Elija un </h1>
         <img src={logo}  alt="TurnoCupet" width={60} height={60} />
+        <cite>Act. 27-05-2023 15:00</cite>
       </div>
 
       <hr />
