@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.52da888a.css",
+    "main.js": "/static/js/main.b4eeb70a.js",
+    "static/media/cupetTurnosLogo.png": "/static/media/cupetTurnosLogo.a2039e36d5addea69cba.png",
+    "index.html": "/index.html",
+    "main.52da888a.css.map": "/static/css/main.52da888a.css.map",
+    "main.b4eeb70a.js.map": "/static/js/main.b4eeb70a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.52da888a.css",
+    "static/js/main.b4eeb70a.js"
+  ]
+}
