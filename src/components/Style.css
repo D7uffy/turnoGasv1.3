@@ -1,0 +1,37 @@
+#contenedorPadre {
+    width: 350px;
+    height: 350px;
+    margin: 100px;
+    border-style: dashed solid;
+    border-color: rgb(21, 22, 22);
+    
+  }
+  #contenedorHijo {
+    width: 500px;
+    height: 25px;
+   
+  }
+
+  #texto{
+    display: inline-block;
+    vertical-align: top;
+  }
+
+  .seccion-final {
+    display: flex;
+    justify-content: space-around;
+  }
+  .seccion-final__p {
+    border: 3px dotted ;
+    background-color: rgb(67, 168, 146);
+    color: azure;
+  }
+
+
+  .inputangana{
+    margin-left: 2px;
+ }
+
+ .inputzapata{
+  margin-left: 2px;
+}
