@@ -3,7 +3,7 @@ import swal from "sweetalert";
 
 
 const TanganaForm = () => {
-  const turnoPista = 11833;
+  const turnoPista = 12332;
   const promediodeturnosPorDia = 334;
 
   const calcularTurnosFaltantes = (turnoPersona, turnoPista) => {

@@ -3,7 +3,7 @@ import swal from "sweetalert";
 
 
 const ZapataForm = () => {
-  const turnoPista = 4215;
+  const turnoPista = 4460;
   const promediodeturnosPorDia = 233;
 
   const calcularTurnosFaltantes = (turnoPersona, turnoPista) => {
